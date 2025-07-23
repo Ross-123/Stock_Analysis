@@ -1,0 +1,3 @@
+yfinance 0.2.65
+lxml 6.0.0
+pandas 2.3.1
